@@ -1,0 +1,6 @@
+{
+  "name": "Vidriería La Primera - Gestión Logística",
+  "description": "Sistema de gestión logística integral para Vidriería La Primera (Buga, Valle del Cauca) fundamentado en las teorías de Tompkins, Ballou y Chopra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
